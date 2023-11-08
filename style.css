@@ -1,0 +1,173 @@
+body 
+{   display: flex;
+    width: 1440px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+     background: #191919;
+}
+
+
+footer 
+{
+    width: 1440px;
+    height: 438px;
+    flex-shrink: 0;
+}
+
+.footer_container
+{
+                display: flex;
+                width: 1300px;
+                padding: 0px 0.031px 16px 0px;
+                justify-content: center;
+                align-items: flex-start;
+                gap: 16px;
+}
+
+.footer_menu
+{
+            display: flex;
+            width: 178.844px;
+            padding: 0px 103.984px 84.875px 0px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 10px;
+            flex-shrink: 0;
+}
+
+.footer_title
+{
+            color: #FFF;
+            font-family: DM Sans;
+            font-size: 17px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 27px;
+            list-style-type: none;
+}
+
+.footer_info
+{
+            display: flex;
+            width: 447.141px;
+            height: 222px;
+            padding: 0.125px 0px 128.891px 0px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 19.984px;
+            flex-shrink: 0;
+}
+
+.logo-footer
+{
+        width: 224px;
+        height: 46px;
+        flex-shrink: 0;
+}
+
+.SM_footer
+{
+        display: flex;
+        height: 27px;
+        padding-right: 0px;
+        align-items: flex-start;
+        gap: 10px;
+        flex-shrink: 0;
+}
+
+.SM_icons
+{
+          display: flex;
+            height: 27px;
+            padding-right: 0px;
+            align-items: flex-start;
+            gap: 10px;
+            flex-shrink: 0;
+}
+
+.assets
+{
+        display: flex;
+        width: 447.141px;
+        height: 32px;
+        padding: 0px 218.969px 0px 0.172px;
+        align-items: flex-start;
+        gap: 17px;
+        flex-shrink: 0;
+}
+
+.assets_size
+{
+        width: 32px;
+        height: 32px;
+        flex-shrink: 0;
+}
+
+header {
+    width: 1440px;
+    height: 119px;
+    flex-shrink: 0;
+    background: #191919;
+}
+
+.header_space
+{
+
+        display: inline-flex;
+        padding: 0px 50px;
+        justify-content: center;
+        align-items: center;
+        gap: 777px;
+}
+
+.header_logo
+{
+        width: 160px;
+        height: 33px;
+}
+
+.header_menu
+{
+        display: flex;
+            width: 403px;
+            height: 67px;
+            padding: 20px;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 40px;
+        list-style-type: none;
+}
+
+.menu_title_home
+{
+        width: 49px;
+        flex-shrink: 0;
+        color: #118DA8;
+        font-family: DM Sans;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        /* 158.824% */
+}
+
+.menu_title
+{
+        width: 75px;
+        flex-shrink: 0;
+        color: #FFF;
+        font-family: DM Sans;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        list-style-type: none;
+}
+
+.hero_banner
+{
+        width: 1400px;
+        height: 913px;
+        flex-shrink: 0;
+}
